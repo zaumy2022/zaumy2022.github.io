@@ -34,7 +34,7 @@
 }
 
 body {
-    background-color: #eaeaea;
+    background-color: #000000;
     margin: 0;
     color: #34495e;
     overflow-x: hidden;
@@ -126,7 +126,7 @@ code {
     font-family: Inconsolata, Monaco, Consolas, 'Courier New', Courier, monospace;
     font-size: 0.91rem;
     color: #e96900;
-    background-color: #f8f8f8;
+    background-color: #000000;
     border-radius: 2px;
 }
 
@@ -183,7 +183,7 @@ code {
 
 pre code {
     padding: 0;
-    color: #e8eaf6;
+    color: #000000;
     background-color: #272822;
 }
 
@@ -197,7 +197,7 @@ kbd {
     font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
     font-size: 0.9rem;
     font-weight: 600;
-    background-color: #f8f8f8;
+    background-color: #000000;
     color: #34495e;
     line-height: 1.8rem;
     white-space: nowrap;
@@ -1232,17 +1232,17 @@ article .article-tags .chip {
 th,
 td {
     padding: 12px 13px;
-    border: 1px solid #dfe2e5;
+    border: 1px solid #000000;
 }
 **/
 
 table tr:nth-child(2n),
 thead {
-    background-color: #fafafa;
+    background-color: #000000;
 }
 
 #articleContent table th {
-    background-color: #f2f2f2;
+    background-color: #000000;
     min-width: 80px;
     border: 1px solid #dfe2e5;
     padding: 6px 6px;
@@ -1751,7 +1751,7 @@ thead {
     left: 0;
     width: 110px;
     font-size: 0.9rem;
-    color: #ffffff;
+    color: #000000;
     border-radius: 35px;
     -webkit-border-radius: 35px;
     -moz-border-radius: 35px;
@@ -1783,7 +1783,7 @@ thead {
     font-size: 12px;
     height: 30px;
     line-height: 30px;
-    color: #ffffff;
+    color: #000000;
     color: rgba(0, 0, 0, 0.5);
 }
 
@@ -1843,7 +1843,7 @@ footer a {
 }
 
 footer .copy-right {
-    color: #dbdbdb;
+    color: #000000;
 }
 
 /*搜索层样式*/
@@ -1885,7 +1885,7 @@ footer .copy-right {
     margin: 0 2px;
     padding: 1px 5px 1px 4px;
     border-radius: 2px;
-    background-color: #f2f2f2;
+    background-color: #000000;
     color: #e96900;
     font-style: normal;
     white-space: pre-wrap;
@@ -2122,7 +2122,7 @@ footer .copy-right {
 
 .m-nav-show,
 .m-nav-item > a:hover {
-    color: #FFF;
+    color: #000000;
     background: rgba(255, 255, 255, .8);
 }
 
