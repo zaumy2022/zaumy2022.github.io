@@ -241,7 +241,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 55%, #000000 45%);
+    background-image: linear-gradient(to right, #4cbf30 0, #ffff00 100%);
 }
 
 .text-color {
